@@ -10,7 +10,7 @@ Contacts: dev-marketing@adjust.com, nacho@adjust.com.
 2. You **MUST clone this repo** to a location of your choosing, where you can work on your solution. See how to clone a repository [here](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository).
 3. Write your solution to the exercise.
 4. Push your solution to a private repo in your personal Github account.
-5. When you are ready for us to take a look, add these github users `nachoadjust`, `ftpaul`, `dev-marketing` as [collaborators](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-user-account/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository) to your repo.
+5. When you are ready for us to take a look, add these Github users `nachoadjust`, `ftpaul`, `dev-marketing` as [collaborators](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-user-account/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository) to your repo.
 
 ---
 
@@ -28,7 +28,7 @@ This is how we expect the assignment to look and behave once it is finished:
 ---
 
 ## Clarifications
-- This repository already provides a boilerplate with all parts you need to solve the exercise: NuxtJS + Vite + TailwindCSS + Jest.
+- This repository already provides a boilerplate with all parts you need to solve the exercise: NuxtJS + TypeScript + TailwindCSS + Jest.
 - You can add any plugin you consider necessary.
 - Using Typescript is optional.
 - Using TailwindCSS is optional.
