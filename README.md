@@ -1,94 +1,35 @@
-# Assignment
-This document contains:
-- The *instructions for solving the assignment*.
-- The *handover information*.
-- A *link to the example project*.
-- General Notes.
-- General information about NuxtJs.
+# Webdev Assignment
+Owner: [Inbound Team](https://mate.adjust.com/teams/inbound)
+
+Contacts: dev-marketing@adjust.com, nacho@adjust.com.
+
+---
 
 ## Instructions
-You will find the instructions inside [INSTRUCTIONS.md](./INSTRUCTIONS.md).
+1. Read all of [EXERCISE.md](./EXERCISE.md) before you start.
+2. You **MUST clone this repo** to a location of your choosing, where you can work on your solution. See how to clone a repository [here](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository).
+3. Write your solution to the exercise.
+4. Push your solution to a private repo in your personal Github account.
+5. When you are ready for us to take a look, add these github users `nachoadjust`, `ftpaul`, `dev-marketing` as [collaborators](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-user-account/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository) to your repo.
 
-## Hand over of the project:
-You have **4 days** from the moment you receive this assignment to solve it and commit your solution.
+---
 
-## Example project:
-This is how we expect the project to look and work once finished. Use it as reference:
+## Exercise
+You will find the Exercise steps inside [EXERCISE.md](./EXERCISE.md).
+
+---
+
+## Expected output
+This is how we expect the assignment to look and behave once it is finished:
 
 - https://assignment-webdev.netlify.app/
 - Password: Assignment
 
-## General Notes:
-- You can add any plugin you consider necessary.
-- Using Typescript is optional.
-- Adding tests is optional.
-
 ---
 
-## Nuxt Setup
-
-```bash
-# install dependencies
-$ yarn install
-
-# serve with hot reload at localhost:3000
-$ yarn dev
-
-# build for production and launch server
-$ yarn build
-$ yarn start
-
-# generate static project
-$ yarn generate
-```
-
-For detailed explanation on how things work, check out the [documentation](https://nuxtjs.org).
-
-## Special Directories
-
-You can create the following extra directories, some of which have special behaviors. Only `pages` is required; you can delete them if you don't want to use their functionality.
-
-### `assets`
-
-The assets directory contains your uncompiled assets such as Stylus or Sass files, images, or fonts.
-
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/assets).
-
-### `components`
-
-The components directory contains your Vue.js components. Components make up the different parts of your page and can be reused and imported into your pages, layouts and even other components.
-
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/components).
-
-### `layouts`
-
-Layouts are a great help when you want to change the look and feel of your Nuxt app, whether you want to include a sidebar or have distinct layouts for mobile and desktop.
-
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/layouts).
-
-
-### `pages`
-
-This directory contains your application views and routes. Nuxt will read all the `*.vue` files inside this directory and setup Vue Router automatically.
-
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/get-started/routing).
-
-### `plugins`
-
-The plugins directory contains JavaScript plugins that you want to run before instantiating the root Vue.js Application. This is the place to add Vue plugins and to inject functions or constants. Every time you need to use `Vue.use()`, you should create a file in `plugins/` and add its path to plugins in `nuxt.config.js`.
-
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/plugins).
-
-### `static`
-
-This directory contains your static files. Each file inside this directory is mapped to `/`.
-
-Example: `/static/robots.txt` is mapped as `/robots.txt`.
-
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/static).
-
-### `store`
-
-This directory contains your Vuex store files. Creating a file in this directory automatically activates Vuex.
-
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/store).
+## Clarifications
+- This repository already provides a boilerplate with all parts you need to solve the exercise: NuxtJS + Vite + TailwindCSS + Jest.
+- You can add any plugin you consider necessary.
+- Using Typescript is optional.
+- Adding tests is optional, tho recommended.
+- Do not worry about the design, just make sure the HTML and CSS code quality is good.
