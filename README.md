@@ -31,5 +31,6 @@ This is how we expect the assignment to look and behave once it is finished:
 - This repository already provides a boilerplate with all parts you need to solve the exercise: NuxtJS + Vite + TailwindCSS + Jest.
 - You can add any plugin you consider necessary.
 - Using Typescript is optional.
+- Using TailwindCSS is optional.
 - Adding tests is optional, tho recommended.
 - Do not worry about the design, just make sure the HTML and CSS code quality is good.
