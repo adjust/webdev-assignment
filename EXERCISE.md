@@ -3,7 +3,7 @@ We would like to build a small *E-commerce* project that should include:
 
 - a list of products page.
 - a product detail page.
-- a global cart, shared across pages.
+- a global cart shared across pages.
 
 ## Frontend framework:
 We want to create this project using [NuxtJS](https://nuxtjs.org/) as our frontend framework.
@@ -81,5 +81,5 @@ We want our project to include the following:
           **Important:**
           If a product item is added into the cart many times:
           - The cart list should *show the product item only once*.
-          - The *Product Item Quantity* value should show how many times the item was added into the cart.
+          - The *Product Item Quantity* value should show how many times the item was added to the cart.
           - The *Product Item Price combined* value should show the sum of all unit prices of the item.
