@@ -25,17 +25,12 @@
             <i>TailwindCSS</i>
           </a>
         </li>
-
-        <li>
-          <i>portal-vue Plugin</i> <br>(You might need it when creating the Modal Window)
-        </li>
       </ul>
 
-      <p>Note: It is totally up to you to use all of the things in the list or just some of them.</p>
-      <p>Additionally, you can add new things should you need them.</p>
+      <p>Note: It is totally up to you to use all of the things in the list or just some of them. Additionally, you can add new things should you need them.</p>
 
-      <p class="mt-16">
-        Check <strong>Readme.md</strong> for information about Nuxt's folders. <br>
+      <p>
+        Check <strong>Readme.md</strong> for information. <br>
         Feel free to DELETE this component to get started!
       </p>
 
