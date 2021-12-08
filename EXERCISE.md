@@ -5,7 +5,7 @@ We would like to build a small *E-commerce* project that should include a list o
 We want to create this project using [NuxtJS](https://nuxtjs.org/) as our frontend framework.
 
 ## API:
-As for the products, the information to be used should be consumed from this API:
+As for the products, categories and other data elements, the information to be used should be consumed from the endpoints of this API:
 https://fakestoreapi.com/
 
 ## Project Features:
