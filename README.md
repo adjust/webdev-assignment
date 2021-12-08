@@ -30,6 +30,7 @@ This is how we expect the assignment to look and behave once it is finished:
 ## Clarifications
 - This repository already provides a boilerplate with all parts you need to solve the exercise: NuxtJS + TypeScript + TailwindCSS + Jest.
 - You can add any plugin you consider necessary.
+- You can call any API endpoint you consider necessary.
 - Using Typescript is optional.
 - Using TailwindCSS is optional.
 - Adding tests is optional, tho recommended.
